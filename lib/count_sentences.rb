@@ -4,6 +4,7 @@ class String
 
   def sentence?
     "Ola.".end_with?(".")
+  else
     "Ola".end_with?(".")
   end
 
