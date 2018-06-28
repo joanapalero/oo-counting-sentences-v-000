@@ -12,7 +12,8 @@ class String
   end
 
   def exclamation?
-
+  "Ola means hello in Spanish.
+  Correct?" .c
   end
 
   def count_sentences
