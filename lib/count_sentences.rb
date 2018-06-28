@@ -8,7 +8,7 @@ class String
   end
 
   def question?
-
+  "Ola?".end_with?("?")
   end
 
   def exclamation?
